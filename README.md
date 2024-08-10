@@ -1,2 +1,2 @@
 # work
-This is the second training.
+This is the second training.no
