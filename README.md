@@ -1,2 +1,2 @@
 # work
-This is the second training.yes
+This is the second training.yesno
